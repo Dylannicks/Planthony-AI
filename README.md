@@ -21,7 +21,7 @@ Rather than fine-tuning a model, Planthony uses a lightweight RAG pipeline:
 
 ## Project structure
 
-\```
+```
 plant-chatbot/
 ├── app/
 │   ├── api/chat/route.js     # Retrieval + chat API endpoint
@@ -30,7 +30,7 @@ plant-chatbot/
 ├── data/embeddings.json      # Precomputed embeddings for the knowledge base
 ├── scripts/generate-embeddings.js   # One-time script to (re)generate embeddings
 └── .env.local                # Local environment variables (not committed)
-\```
+```
 
 ## Running locally
 
