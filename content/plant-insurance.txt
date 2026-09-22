@@ -1,0 +1,85 @@
+﻿Plant B Insurance
+Product Overview
+Plant B Insurance is a one-time plant replacement policy. Customers pay a $3 one-time fee to receive coverage for one insured plant for 12 months from the date of purchase.
+If the insured plant dies or does not survive during the coverage period due to natural causes, accidental neglect, or unforeseen issues, the customer may receive one replacement plant of the same or similar type.
+Coverage
+Plant B Insurance covers:
+* One plant per policy
+* One replacement plant per policy
+* Replacement with a plant of the same or similar type
+* Coverage for 12 months from the policy purchase date
+* Plant death or failure to survive caused by:
+   * Overwatering
+   * Underwatering
+   * Pests
+   * Environmental stress
+   * Natural causes
+   * Accidental neglect
+   * Other unforeseen issues
+The policy is described as a “no questions asked” replacement, subject to the stated exclusions and claim requirements.
+Cost and Duration
+* Policy price: $3 one-time fee
+* Coverage period: 12 months from purchase
+* Claims allowed: One claim per insured plant
+* Policies covered: One plant per policy
+* Transferability: Policy is non-transferable
+Exclusions
+Plant B Insurance does not cover:
+* Intentional harm or intentional damage to the plant
+* Theft
+* Loss of the plant
+* Replacement of the planter
+* Replacement of soil
+* Replacement of plant accessories
+* Plants that show visible signs of recovery when the claim is submitted
+Claim Requirements
+To file a claim, the customer must submit:
+1. A photo of the insured plant showing its current condition
+2. A brief description of the issue
+3. The policy number or proof of purchase
+Claims must be submitted before the policy expiration date.
+Replacement Process
+If a claim is approved, the customer receives one replacement plant of the same or similar type.
+Replacement may be provided through:
+* Pickup
+* Delivery
+The policy states that the replacement will be provided within 1 year, although the policy does not specify an exact replacement fulfillment timeframe after claim approval.
+Important Chatbot Rules
+When answering customer questions:
+* Do not state that Plant B Insurance covers theft or a lost plant.
+* Do not state that the policy covers the planter, soil, or accessories.
+* Do not promise multiple replacements or multiple claims.
+* Do not state that the policy can be transferred to another person or plant.
+* Do not approve a claim based only on a customer's description; the policy requires a photo and policy number/proof of purchase.
+* Do not guarantee replacement if the plant shows visible signs of recovery at claim submission.
+* The policy price is $3, paid once—not $3 per month.
+* Coverage lasts 12 months from purchase, not indefinitely.
+* “No questions asked” does not override the policy's exclusions and claim requirements.
+* If the policy does not specify an answer, do not invent a policy term. Direct the customer to support: [support email/phone].
+Example Customer Intent Mapping
+“My plant died.”
+→ Potentially covered if it occurred during the 12-month coverage period and does not fall under an exclusion. The customer must submit a photo, description, and policy number/proof of purchase.
+“I overwatered my plant and it died.”
+→ Overwatering is listed as a covered cause.
+“I forgot to water my plant.”
+→ Underwatering/accidental neglect is listed as covered.
+“My plant has pests.”
+→ Pests are listed as a covered cause if the plant does not survive.
+“Someone stole my plant.”
+→ Theft is excluded.
+“I lost my plant.”
+→ Loss of the plant is excluded.
+“Can I get a new pot too?”
+→ No. The policy covers the replacement plant, not the planter, soil, or accessories.
+“Can I claim twice?”
+→ No. Each policy allows one claim/replacement per insured plant.
+“Can I transfer my policy?”
+→ No. Policies are non-transferable.
+“My plant is recovering. Can I still claim?”
+→ The policy excludes plants showing visible signs of recovery at the time of claim submission.
+“How much does Plant B Insurance cost?”
+→ $3 one-time fee.
+“How long am I covered?”
+→ 12 months from the date of purchase.
+“What do I need to file a claim?”
+→ A photo showing the plant's condition, a brief description of the issue, and the policy number or proof of purchase.

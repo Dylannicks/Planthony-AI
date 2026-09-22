@@ -1,0 +1,132 @@
+﻿PLANT PARENTHOOD — PRODUCT CATALOG
+BUSINESS / PRODUCT OVERVIEW
+Plant Parenthood sells houseplants in upcycled glass bottle planters, along with Plant Parenthood merchandise.
+The planters are made from repurposed bottles. Each bottle is carefully cut, smoothed, and polished to create a safe, decorative planter with drainage.
+HOUSEPLANTS
+Plant Parenthood offers the following houseplant varieties:
+• Pothos
+* Golden Pothos
+* Marble Queen Pothos
+* Neon Pothos
+* Other Pothos varieties may be available
+• Spider Plant
+• Christmas Cactus
+• Philodendron
+* Heartleaf Philodendron
+* Brasil Philodendron
+* Other Philodendron varieties may be available
+• Jade Plant
+• Monstera
+* Monstera Deliciosa
+* Monstera Adansonii
+• Pencil Cactus
+PLANT + PLANTER PRICING
+Pricing is primarily determined by the type and size of planter.
+BEER BOTTLE PLANTER — $13
+Price: $13
+Repurposed beer bottles are used as small glass planters.
+Suitable for:
+• Small cuttings
+• Pothos
+• Spider Plants
+• Other appropriately sized, low-maintenance plants
+Available bottle brands/containers:
+• Corona
+• Heineken
+• Coors
+• Modelo
+• Budweiser
+• Coca-Cola
+LARGE LIQUOR/WINE BOTTLE PLANTER — $22
+Price: $22
+Larger liquor and wine bottles provide more growing space than the beer bottle planters.
+Suitable for:
+• Medium-sized plants
+• Philodendrons
+• Jade Plants
+• Other appropriately sized plants
+Available bottle brands/containers:
+• Tito's
+• Jameson
+• Malibu
+XTRA LARGE BOTTLE PLANTER — $25–$30
+Price: $25–$30
+Extra-large repurposed liquor or wine bottles provide additional root space for larger plants.
+Suitable for:
+• Monstera
+• Larger plants
+• Multiple small plants in one container
+Available bottle brands/containers:
+• Jose Cuervo
+• Yellow Tail
+• Other premium liquor and wine bottles
+Important: The exact price within the $25–$30 range may vary depending on the bottle/container.
+CUSTOM ORDER — $45
+Price: $45
+Customers can request a specific container, provided the request is reasonably feasible. Plant Parenthood will attempt to source the requested container and create a personalized planter.
+Customers can choose their preferred plant for a custom order.
+Custom-order feature opportunity:
+Custom orders have the potential to be featured on Plant Parenthood's TikTok. A TikTok feature is a possibility, not a guarantee.
+PLANTER DETAILS
+Plant Parenthood specializes in upcycled glass planters made from discarded bottles.
+Planter characteristics:
+• Upcycled/reused glass bottles
+• Sustainable and eco-friendly concept
+• Designed to provide drainage
+• Decorative/aesthetic design
+• Bottles are cut, smoothed, and polished
+• Finished planters are designed to be safe and functional
+MERCHANDISE
+PLANT PARENTHOOD T-SHIRT — $25
+Price: $25
+Description:
+• Plant Parenthood branded T-shirt
+• Eco-friendly cotton
+• Botanical/plant-themed designs
+STICKERS — $1
+Price: $1
+Description:
+• Plant-themed
+• Waterproof
+• Durable
+• Suitable for water bottles, laptops, notebooks, and similar surfaces
+CHATBOT INTENT MAPPING
+“How much are the plants?”
+Pricing depends primarily on the planter. Beer bottle planters are $13, large liquor/wine bottle planters are $22, Xtra Large bottle planters are $25–$30, and custom orders are $45.
+“How much is a Pothos?”
+The catalog does not provide a separate price by plant variety. Pricing is based primarily on the planter selected.
+“What plants do you sell?”
+Plant Parenthood offers Pothos, Spider Plant, Christmas Cactus, Philodendron, Jade Plant, Monstera, and Pencil Cactus.
+Specific varieties listed include Golden, Marble Queen, and Neon Pothos; Heartleaf and Brasil Philodendron; and Monstera Deliciosa and Monstera Adansonii.
+“What comes in the $13 option?”
+A plant in a repurposed beer bottle planter.
+“What comes in the $22 option?”
+A plant in a large liquor/wine bottle planter.
+“What is the biggest planter?”
+The Xtra Large bottle planter is the largest listed planter option. It is priced at $25–$30.
+“Can I request a specific bottle?”
+Yes. Custom orders allow customers to request a specific container within reason. The custom-order price is $45.
+“Can I choose the plant for a custom order?”
+Yes. Customers can choose their plant for a custom order.
+“Will my custom order be on TikTok?”
+Custom orders have the potential to be featured on Plant Parenthood's TikTok, but a feature is not guaranteed.
+“Do you sell shirts?”
+Yes. Plant Parenthood T-shirts are $25.
+“How much are the stickers?”
+Stickers are $1 each.
+“Are the planters recycled?”
+Plant Parenthood uses upcycled/repurposed glass bottles to create its planters.
+“What bottles do you use?”
+Beer bottle options include Corona, Heineken, Coors, Modelo, Budweiser, and Coca-Cola.
+Large liquor/wine bottle options include Tito's, Jameson, and Malibu.
+Xtra Large options include Jose Cuervo, Yellow Tail, and other premium liquor and wine bottles.
+CHATBOT ACCURACY RULES
+• Do not invent plant varieties, bottle brands, prices, sizes, or availability that are not listed in this source.
+• Do not claim a specific plant has a specific price unless the customer has also specified the planter category.
+• Do not imply that every listed plant is available in every planter size.
+• When discussing plant suitability, use the examples provided in this catalog rather than guaranteeing compatibility.
+• The Xtra Large planter price is a range of $25–$30, not a fixed $25 or $30 price.
+• A custom order costs $45.
+• Custom container requests are subject to feasibility. Do not guarantee that a requested container can be sourced.
+• A TikTok feature for custom orders is a potential opportunity, not a guaranteed benefit.
+• If a customer asks about a plant, bottle, price, or option not covered by this source, do not make up an answer. Direct the customer to Plant Parenthood for confirmation.
