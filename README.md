@@ -24,7 +24,6 @@ Rather than fine-tuning a model, Planthony uses a lightweight RAG pipeline:
 The app lives under `app/`, with `app/api/chat/route.js` handling retrieval and chat, and `app/widget/page.js` serving the chat UI as a standalone page embedded via iframe. The `content/` folder holds the source knowledge base (care guides, product info, FAQs), and `data/embeddings.json` stores the precomputed embeddings generated from it. `scripts/generate-embeddings.js` is the one-time script used to build or rebuild that file.
 
 ## Running locally
-## Running locally
 
 1. Clone the repo and install dependencies:
    \```bash
