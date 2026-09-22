@@ -21,17 +21,9 @@ Rather than fine-tuning a model, Planthony uses a lightweight RAG pipeline:
 
 ## Project structure
 
-```
-plant-chatbot/
-├── app/
-│   ├── api/chat/route.js     # Retrieval + chat API endpoint
-│   └── widget/page.js        # Chat UI (served standalone, embedded via iframe)
-├── content/                  # Source knowledge base (care guides, product info, FAQs)
-├── data/embeddings.json      # Precomputed embeddings for the knowledge base
-├── scripts/generate-embeddings.js   # One-time script to (re)generate embeddings
-└── .env.local                # Local environment variables (not committed)
-```
+The app lives under `app/`, with `app/api/chat/route.js` handling retrieval and chat, and `app/widget/page.js` serving the chat UI as a standalone page embedded via iframe. The `content/` folder holds the source knowledge base (care guides, product info, FAQs), and `data/embeddings.json` stores the precomputed embeddings generated from it. `scripts/generate-embeddings.js` is the one-time script used to build or rebuild that file.
 
+## Running locally
 ## Running locally
 
 1. Clone the repo and install dependencies:
